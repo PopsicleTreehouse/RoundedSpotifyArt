@@ -1,0 +1,9 @@
+Package: com.popsicletreehouse.roundedspotifyart
+Name: RoundedSpotifyArt
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Round your spotify album art
+Maintainer: PopsicleTreehouse
+Author: PopsicleTreehouse
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
